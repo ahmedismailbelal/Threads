@@ -1,0 +1,12 @@
+mohanad (pc) is trying to connect.
+Connection 1: mohanad (pc) connected
+sarah (mobile) is trying to connect.
+Connection 1: mohanad (pc) is performing activity.
+Connection 2: sarah (mobile) connected
+Connection 2: sarah (mobile) is performing activity.
+hassan (laptop) is trying to connect.
+Connection 2: sarah (mobile) disconnected.
+Connection 2: hassan (laptop) connected
+Connection 2: hassan (laptop) is performing activity.
+Connection 1: mohanad (pc) disconnected.
+Connection 2: hassan (laptop) disconnected.
